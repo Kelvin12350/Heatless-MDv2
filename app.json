@@ -1,8 +1,8 @@
 {
-  "name": "E3_HACKER_MD",
-  "description": "Javascript WhatsApp bot made by E3_HACKER_MD",
+  "name": "Heatless-MD",
+  "description": "Javascript WhatsApp bot made by Heatless-MD",
   "logo": "https://files.catbox.moe/p4yxcn.png",
-  "keywords": ["E3_HACKER_MD"],
+  "keywords": ["Heatless-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "E3_HACKER_MD"
+      "value": "Heatless-MD"
     }, 
       
     "PREFIX": {
@@ -78,14 +78,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY E3_HACKER_MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY Heatless-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "*E3_HACKER_MD*"
+      "value": "*Heatless-MD*"
 }, 
 
     "OWNER_NUMBER": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝙀3_𝙃𝘼𝘾𝙆𝙀𝙍_𝙈𝘿"
+      "value": "Heatless-MD"
 
       }, 
 
